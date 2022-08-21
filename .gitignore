@@ -1,0 +1,4 @@
+node_modules
+.DS_Store
+test/__snapshots__
+yarn.lock
